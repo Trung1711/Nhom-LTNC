@@ -1,0 +1,14 @@
+c:\users\trung\documents\visual studio 2015\Projects\Tuan5_3\Tuan5_3\bin\Debug\Tuan5_3.exe.config
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\Tuan5_3\Tuan5_3\bin\Debug\Tuan5_3.exe
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\Tuan5_3\Tuan5_3\bin\Debug\Tuan5_3.pdb
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\Tuan5_3\Tuan5_3\obj\Debug\Tuan5_3.csprojResolveAssemblyReference.cache
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\Tuan5_3\Tuan5_3\obj\Debug\MainWindow.g.cs
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\Tuan5_3\Tuan5_3\obj\Debug\App.g.cs
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\Tuan5_3\Tuan5_3\obj\Debug\Tuan5_3_MarkupCompile.cache
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\Tuan5_3\Tuan5_3\obj\Debug\Tuan5_3_MarkupCompile.lref
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\Tuan5_3\Tuan5_3\obj\Debug\MainWindow.baml
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\Tuan5_3\Tuan5_3\obj\Debug\Tuan5_3.g.resources
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\Tuan5_3\Tuan5_3\obj\Debug\Tuan5_3.Properties.Resources.resources
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\Tuan5_3\Tuan5_3\obj\Debug\Tuan5_3.csproj.GenerateResource.Cache
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\Tuan5_3\Tuan5_3\obj\Debug\Tuan5_3.exe
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\Tuan5_3\Tuan5_3\obj\Debug\Tuan5_3.pdb

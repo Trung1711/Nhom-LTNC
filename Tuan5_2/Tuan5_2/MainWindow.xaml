@@ -1,0 +1,18 @@
+﻿<Window x:Class="Tuan5_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tuan5_2"
+        mc:Ignorable="d"
+        Title="My Custom XAML Editor" Height="338" Width="1041"  Loaded="Window_Loaded" Closed="Window_Closed"  WindowStartupLocation="CenterScreen">
+    <Grid>
+        <DockPanel Margin="0,-4,0,4">
+            <Button x:Name="btnViewXaml" Content="View Xaml" Margin="0" Width="100" Height="40" Click="btnViewXaml_Click" VerticalAlignment="Top" DockPanel.Dock="Top"/>
+            <TextBox x:Name="txtXamlData" Height="186" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="1048" FontSize="14" Background="Black" Foreground="Yellow" BorderBrush="Blue" VerticalScrollBarVisibility="Auto" AcceptsReturn="True" AcceptsTab="True" TextChanged="txtXamlData_TextChanged"/>
+        </DockPanel>
+
+
+
+    </Grid>
+</Window>
